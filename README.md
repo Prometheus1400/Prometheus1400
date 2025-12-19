@@ -1,20 +1,10 @@
-## Hi there 👋
+# 👋 Hey, I'm Kaleb
 
-<!--
-**Prometheus1400/Prometheus1400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently software engineer at ❄️ Snowflake  with a passion for developer tooling, programming languages, and compilers! As you can tell I really enjoy systems work and digging deeper to understand *how* things work! The best way to learn is to build it yourself.
 
-Here are some ideas to get you started:
+## Current Interests
+#### Neovim
+Programming is an art and artists should become experts with their tools. For me Neovim makes writing code an extension of my brain, I don't need to think about *how* to accomplish what I want, I just think it and it happens. I know that might sound a little crazy but if you have not tried out an editor like Vim, Neovim, Emacs, or Helix I would **highly** encourage you to give it a shot!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prometheus1400&show_icons=true&theme=transparent" />
-</p>
+#### Rust
+*TLDR* do as much at compile time as possible! Rust has done an incredible job with the amount of guarantees you get if you can simply compile your program. It has also made me think about programming differently, in a way that translates to writing safer code in other languages, even dynamic languages like Python!
